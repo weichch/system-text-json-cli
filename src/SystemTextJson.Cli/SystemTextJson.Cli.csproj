@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <PackAsTool>true</PackAsTool>
+    <PackageId>SystemTextJson.Cli</PackageId>
+    <Description>A JSON manipulation command-line tool based on System.Text.Json.</Description>
+    <ToolCommandName>json</ToolCommandName>
+  </PropertyGroup>
+
+</Project>
